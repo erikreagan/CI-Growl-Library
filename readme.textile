@@ -1,0 +1,12 @@
+h1. CI Growl Library
+
+This is a simple library for sending Growl notifications via a CodeIgniter application.
+
+
+h2. Credits
+
+Original code comes from "netgrowl.php":http://the.taoofmac.com/space/projects/netgrowl.php from "Rui Carmo":http://the.taoofmac.com/space/HomePage. It was ported into a CodeIgniter library by "Erik Reagan":http://twitter.com/erikreagan
+
+h2. Everything else
+
+On the way...once I commit the library itself.
